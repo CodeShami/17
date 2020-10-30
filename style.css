@@ -1,0 +1,21 @@
+body {
+  background-image: url(grid_noise.png);
+  border-top: 1px solid #000;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 200px;
+  margin: 0 auto;
+  margin-top: 250px;
+}
+
+span.one {
+  font-size: 24px;
+  color: red;
+}
+
+span.two {
+  color: blue;
+}
